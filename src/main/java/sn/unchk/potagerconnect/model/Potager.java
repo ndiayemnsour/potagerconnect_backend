@@ -82,6 +82,22 @@ public class Potager {
         this.adresse = adresse;
     }
 
+    public String getIdentifiant(){
+        return identifiant;
+    }
+
+    public void setIdentifiant(String identifiant){
+        this.identifiant=identifiant;
+    }
+    
+    public String getMotDePasse(){
+        return mot_de_passe;
+    }
+
+    public void setMotDePasse(String mot_de_passe){
+        this.mot_de_passe=mot_de_passe;
+    }
+
     public String getNom_proprietaire() {
         return nom_proprietaire;
     }
