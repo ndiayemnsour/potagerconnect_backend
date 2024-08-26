@@ -1,0 +1,6 @@
+/Users/mac/Projets/potagerconnectBackend/src/main/java/sn/unchk/potagerconnect/PotagerconnectApplication.java
+/Users/mac/Projets/potagerconnectBackend/src/main/java/sn/unchk/potagerconnect/config/WebConfig.java
+/Users/mac/Projets/potagerconnectBackend/src/main/java/sn/unchk/potagerconnect/controller/PotagerController.java
+/Users/mac/Projets/potagerconnectBackend/src/main/java/sn/unchk/potagerconnect/model/Potager.java
+/Users/mac/Projets/potagerconnectBackend/src/main/java/sn/unchk/potagerconnect/repository/PotagerRepository.java
+/Users/mac/Projets/potagerconnectBackend/src/main/java/sn/unchk/potagerconnect/services/PotagerService.java
